@@ -1,0 +1,6 @@
+{
+  "name": "Gramexa One",
+  "description": "AI-Enabled Smart Village Operating System for Digital Control, Smart Farming, Citizen Complaints and Telemedicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
